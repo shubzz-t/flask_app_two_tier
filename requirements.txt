@@ -1,4 +1,4 @@
-Flask==2.2.5
+Flask==3.0.3
 Flask-MySQLdb==2.0.0
 requests==2.32.2
 Werkzeug==3.0.4
